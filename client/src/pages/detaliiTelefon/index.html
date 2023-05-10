@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Detalii telefon</title>
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md navbar-light bg-light shadow-sm">
+      <div class="container">
+        <a class="navbar-brand" href="/">Phone App</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="../detaliiTelefon/">Detalii</a>
+            </li>
+            <li class="nav-item">
+              <button
+                type="button"
+                class="btn btn-primary"
+                onclick="window.location.href='../telefonNou/'"
+              >
+                Telefon Nou
+              </button>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container mt-5">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="card shadow-sm">
+            <div class="card-header bg-white">
+              <h5 class="card-title mb-0 d-inline-block" id="phone-name"></h5>
+              <button
+                class="btn btn-outline-primary my-2 my-sm-0 float-right"
+                id="edit-phone-btn"
+                data-toggle="modal"
+                data-target="#editModal"
+              >
+                Edit
+              </button>
+            </div>
+            <div class="card-body">
+              <img id="phone-image" class="img-fluid mb-3" src="" alt="" />
+              <p id="phone-description"></p>
+              <p>Preț: $<span id="phone-price"></span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      class="modal fade"
+      id="editModal"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="editModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="editModalLabel">Editare telefon</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form id="editForm">
+              <div class="form-group">
+                <label for="brandInput">Brand</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="brandInput"
+                  required
+                />
+              </div>
+              <div class="form-group">
+                <label for="modelInput">Model</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="modelInput"
+                  required
+                />
+              </div>
+              <div class="form-group">
+                <label for="priceInput">Price</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="priceInput"
+                  required
+                />
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-dismiss="modal"
+            >
+              Anulare
+            </button>
+            <button type="submit" class="btn btn-primary" form="editForm">
+              Salvare
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery and Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="./index.js"></script>
+  </body>
+</html>

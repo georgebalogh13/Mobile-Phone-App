@@ -1,0 +1,9 @@
+CREATE DATABASE phones_db;
+USE phones_db;
+
+CREATE TABLE phones (
+id INT PRIMARY KEY AUTO_INCREMENT,
+brand VARCHAR(50) NOT NULL,
+model VARCHAR(50) NOT NULL,
+price DECIMAL(8,2) NOT NULL
+);

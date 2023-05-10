@@ -1,0 +1,93 @@
+C:\George\repositories\Phone project API\bin\Debug\net7.0\appsettings.Development.json
+C:\George\repositories\Phone project API\bin\Debug\net7.0\appsettings.json
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Phone project API.exe
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Phone project API.deps.json
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Phone project API.runtimeconfig.json
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Phone project API.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Phone project API.pdb
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Azure.Core.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Azure.Identity.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Google.Protobuf.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Humanizer.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\MySql.Data.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\MySqlConnector.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.CodeDom.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\George\repositories\Phone project API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.csproj.AssemblyReference.cache
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.GeneratedMSBuildEditorConfig.editorconfig
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.AssemblyInfoInputs.cache
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.AssemblyInfo.cs
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.csproj.CoreCompileInputs.cache
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.MvcApplicationPartsAssemblyInfo.cs
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.MvcApplicationPartsAssemblyInfo.cache
+C:\George\repositories\Phone project API\obj\Debug\net7.0\staticwebassets\msbuild.Phone project API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\George\repositories\Phone project API\obj\Debug\net7.0\staticwebassets\msbuild.build.Phone project API.props
+C:\George\repositories\Phone project API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Phone project API.props
+C:\George\repositories\Phone project API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Phone project API.props
+C:\George\repositories\Phone project API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\George\repositories\Phone project API\obj\Debug\net7.0\staticwebassets.build.json
+C:\George\repositories\Phone project API\obj\Debug\net7.0\staticwebassets.development.json
+C:\George\repositories\Phone project API\obj\Debug\net7.0\scopedcss\bundle\Phone project API.styles.css
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.csproj.CopyComplete
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.dll
+C:\George\repositories\Phone project API\obj\Debug\net7.0\refint\Phone project API.dll
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.pdb
+C:\George\repositories\Phone project API\obj\Debug\net7.0\Phone project API.genruntimeconfig.cache
+C:\George\repositories\Phone project API\obj\Debug\net7.0\ref\Phone project API.dll

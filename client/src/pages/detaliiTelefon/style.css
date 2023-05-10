@@ -1,0 +1,53 @@
+/* Navbar */
+nav {
+  background-color: #f8f9fa;
+  padding: 1rem 0;
+}
+
+nav a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #343a40;
+  text-decoration: none;
+}
+
+/* Card */
+.card {
+  margin-top: 2rem;
+}
+
+.card-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.card-text {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-body a {
+  margin-top: 1rem;
+}
+
+.card-body a:not(:last-child) {
+  margin-right: 1rem;
+}
+
+/* Footer */
+footer {
+  background-color: #f8f9fa;
+  padding: 1rem 0;
+  margin-top: 2rem;
+}
+
+footer p {
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+
+footer a {
+  color: #343a40;
+  text-decoration: none;
+}
